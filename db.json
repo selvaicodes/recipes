@@ -4,56 +4,56 @@
     "name": "Spaghetti Carbonara",
     "chef": "Mario Batali",
     "region": "Italian",
-    "difficulty": "Intermediate",
+    "difficulty": "Intermediate"
   },
   {
     "id": 2,
     "name": "Beef Bourguignon",
     "chef": "Julia Child",
     "region": "French",
-    "difficulty": "Advanced",
+    "difficulty": "Advanced"
   },
   {
     "id": 3,
     "name": "Pad Thai",
     "chef": "Andy Ricker",
     "region": "Thai",
-    "difficulty": "Intermediate",
+    "difficulty": "Intermediate"
   },
   {
     "id": 4,
     "name": "Chicken Tikka Masala",
     "chef": "Madhur Jaffrey",
     "region": "Indian",
-    "difficulty": "Intermediate",
+    "difficulty": "Intermediate"
   },
   {
     "id": 5,
     "name": "Gazpacho",
     "chef": "Jose Andres",
     "region": "Spanish",
-    "difficulty": "Easy",
+    "difficulty": "Easy"
   },
   {
     "id": 6,
     "name": "Caprese Salad",
     "chef": "Jamie Oliver",
     "region": "Italian",
-    "difficulty": "Easy",
+    "difficulty": "Easy"
   },
   {
     "id": 7,
     "name": "Guacamole",
     "chef": "Rick Bayless",
     "region": "Mexican",
-    "difficulty": "Easy",
+    "difficulty": "Easy"
   },
   {
     "id": 8,
     "name": "Hummus",
     "chef": "Yotam Ottolenghi",
     "region": "Middle Eastern",
-    "difficulty": "Easy",
+    "difficulty": "Easy"
   }
 
 ]}
